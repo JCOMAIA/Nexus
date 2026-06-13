@@ -71,6 +71,7 @@ Harness, Tarefas , RLM
 <img width="767" height="532" alt="image" src="https://github.com/user-attachments/assets/0879b75e-bfce-45fb-b668-437748e63ef3" />
 
 
+agentic logs: <img width="1018" height="877" alt="image" src="https://github.com/user-attachments/assets/42c91f46-eb19-4589-99d0-73e4991c48c2" />
 
 
 
